@@ -1,0 +1,7 @@
+str = input("Enter String")
+str2 = str.lower()
+str3 = str.upper()
+print("The lower case of the given string is : ")
+print(str2)
+print("The upper case of the given string is : ")
+print(str3)
